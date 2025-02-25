@@ -33,7 +33,7 @@
     <!-- Hier wird der Text auf der Webseite angezeigt -->
     <h1>MEHRDAD LOVES BAD BITCHES</h1>  <!-- Der Text auf der Webseite -->
 
-    <!-- Audio-Element -->
+   
     <audio autoplay loop>
         <source src="Icewear.mp3" type="audio/mp3">
         Dein Browser unterstützt das Audio-Element nicht.
