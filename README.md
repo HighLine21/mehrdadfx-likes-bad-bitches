@@ -1,9 +1,9 @@
-<!DOCTYPE html>
+
 <html lang="de">
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MEHRDADFX LIKES BAD BITCHES !!</title> <!-- Titel für den Tab im Browser -->
+    <title>AND NOW, GET THE FUCK OOOUTTA HERE</title> <!-- Titel für den Tab im Browser -->
     <style>
         body {
             background-color: #121212;
